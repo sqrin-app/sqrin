@@ -8,6 +8,6 @@ Sqrin gives apps like Zoom, Teams or Meet a beautiful screen with a smoothly gli
 
 <!--VERSION_START-->
 
-**Version 1.1.3** · build 13 · released November 21, 2026 · [Download](https://github.com/sqrin-app/sqrin/releases/download/v1.1.3/Sqrin-1.1.3.dmg)
+**Version 1.1.4** · build 14 · released November 21, 2026 · [Download](https://github.com/sqrin-app/sqrin/releases/download/v1.1.4/Sqrin-1.1.4.dmg)
 
 <!--VERSION_END-->
